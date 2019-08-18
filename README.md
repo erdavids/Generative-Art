@@ -54,9 +54,7 @@ My places:
 
 <p align="center"><img src="https://github.com/erdavids/Color-Cuber/blob/master/mod/eiffel.png"></p>
 
-#
+# Cubo
 
-<p align="center"><img src=""></p>
-
-
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/Cubo/Cubo-80-40-868.png"></p>
+<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/Cubo/Cubo-8-8-348.png"></p>
