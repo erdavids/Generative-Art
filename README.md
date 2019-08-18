@@ -16,7 +16,7 @@ My places:
 # Island Generator
 <p align="center"><img src="https://github.com/erdavids/Island-Generator/blob/master/Examples/Planet-11223-w-1500-h-1500.png"></p>
 
-# Planet Generator
+# Planet Generator / [Repo](
 
 <p align="center"><img src="https://github.com/erdavids/Island-Generator/blob/master/Examples/Planet-1376-w-1500-h-1500.png"></p>
 
@@ -50,7 +50,7 @@ My places:
 
 <p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/SpaceInvader/Invader-1.jpg"></p>
 
-# Color Cuber
+# Color Cuber / [Repo](https://github.com/erdavids/Color-Cuber)
 
 <p align="center"><img src="https://github.com/erdavids/Color-Cuber/blob/master/mod/eiffel.png"></p>
 
