@@ -25,6 +25,7 @@ My places:
 # Watercolor Clouds / [Repo](https://github.com/erdavids/WatercolorClouds) / [Tutorial](https://www.youtube.com/watch?v=5bBkBVnrg2g)
 
 <p align="center"><img src="https://github.com/erdavids/WatercolorClouds/blob/master/watercolor.png"></p>
+<p align="center"><img src="https://github.com/erdavids/WatercolorClouds/blob/master/Examples/watercolor356.png"></p>
 
 # Blind Mountain / [Repo](https://github.com/erdavids/blind-mountain)
 
