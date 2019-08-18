@@ -1,9 +1,9 @@
 # Generative Art
 Hopefully you find something these projects interesting and helpful when making your own!
 
-Each of the projects should link to their own repos where you can find the code and more example output. If you want to run the files yourself, make sure to download [Processing](processing.org) and install the Python module to run the .pyde files.
+Each of the projects should link to their own repos where you can find the code and more example images. If you want to run the files yourself, make sure to download [Processing](processing.org) for the .pyde files and [Python](https://www.python.org/) for the .py ones. Feel free to reach out to thebuffed@gmail.com if you have any questions
 
-My places:
+Other links:
 - [Website](erdavids.com)
 - [YouTube](https://www.youtube.com/channel/UCUrmX3SvpPerq-KAfGBrgGQ)
 
