@@ -61,4 +61,4 @@ My places:
 
 # Transit Sketches
 
-<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/Transit-Sketches/1139.png"></p>
+<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/Transit-Sketches/422.png"></p>
