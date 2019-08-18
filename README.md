@@ -20,7 +20,7 @@ My places:
 # Polaroids / [Repo](https://github.com/erdavids/Polaroids)
 
 <p align="center"><img src="https://github.com/erdavids/Polaroids/blob/master/Examples/interesting.png"></p>
-<p align="center"><img src="https://github.com/erdavids/Polaroids/blob/master/Examples/10x10.png"></p>
+<p align="center"><img src="https://github.com/erdavids/Polaroids/blob/master/Examples/Pol.png"></p>
 
 # Watercolor Clouds / [Repo](https://github.com/erdavids/WatercolorClouds) / [Tutorial](https://www.youtube.com/watch?v=5bBkBVnrg2g)
 
@@ -47,6 +47,7 @@ My places:
 # Space Invaders / [Repo](https://github.com/erdavids/Space-Invaders) / [TwitterBot](https://twitter.com/generatorsprite)
 
 <p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/SpaceInvader/Invader-1.jpg"></p>
+<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/Example-43x43-6-1900.jpg"></p>
 
 # Island Generator / [Repo](https://github.com/erdavids/Island-Generator)
 
