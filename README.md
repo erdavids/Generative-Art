@@ -17,10 +17,9 @@ Other links:
 
 <p align="center"><img src="https://github.com/erdavids/Circle-Shadows/blob/master/Examples/redbias-6897.png"></p>
 
-# Polaroids / [Repo](https://github.com/erdavids/Polaroids)
+# Cube Towers / [Repo](https://github.com/erdavids/Cube-Towers)
 
-<p align="center"><img src="https://github.com/erdavids/Polaroids/blob/master/Examples/interesting.png"></p>
-<p align="center"><img src="https://github.com/erdavids/Polaroids/blob/master/Examples/Pol.png"></p>
+<p align="center"><img src="https://github.com/erdavids/Cube-Towers/blob/master/Examples/Favorites/git-display.png"></p>
 
 # Watercolor Clouds / [Repo](https://github.com/erdavids/WatercolorClouds) / [Tutorial](https://www.youtube.com/watch?v=5bBkBVnrg2g)
 
@@ -36,13 +35,18 @@ Other links:
 
 <p align="center"><img src="https://github.com/erdavids/Generative-Space-System/blob/master/Examples/Generative-Space-Texture-3000w-2001h.png"></p>
 
-# Elementary Automata / [Repo](https://github.com/erdavids/Elementary-Automata)
-
-<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/automata/a-1.png"></p>
-
 # Pebbles / [Repo](https://github.com/erdavids/Generative-Pebbles)
 
 <p align="center"><img src="https://github.com/erdavids/Generative-Pebbles/blob/master/Examples/Pebbles-50-60x30.png"></p>
+
+# Polaroids / [Repo](https://github.com/erdavids/Polaroids)
+
+<p align="center"><img src="https://github.com/erdavids/Polaroids/blob/master/Examples/interesting.png"></p>
+<p align="center"><img src="https://github.com/erdavids/Polaroids/blob/master/Examples/Pol.png"></p>
+
+# Elementary Automata / [Repo](https://github.com/erdavids/Elementary-Automata)
+
+<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/automata/a-1.png"></p>
 
 # Space Invaders / [Repo](https://github.com/erdavids/Space-Invaders) / [TwitterBot](https://twitter.com/generatorsprite)
 
