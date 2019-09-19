@@ -25,6 +25,10 @@ Other links:
 
 <p align="center"><img src="https://github.com/erdavids/Simulated-Code/blob/master/Favorites/git-display.png"></p>
 
+# Circle Packing / [Repo](https://github.com/erdavids/Circle-Packing) / [Tutorial](https://www.youtube.com/watch?v=QkJHDIwPQ9E)
+
+<p align="center"><img src="https://github.com/erdavids/Circle-Packing/blob/master/Examples/Gif/28.png"></p>
+
 
 # Watercolor Clouds / [Repo](https://github.com/erdavids/WatercolorClouds) / [Tutorial](https://www.youtube.com/watch?v=5bBkBVnrg2g)
 
