@@ -7,6 +7,8 @@ Other links:
 - [My Website](https://www.erdavids.com)
 - [YouTube Channel](https://www.youtube.com/channel/UCUrmX3SvpPerq-KAfGBrgGQ)
 
+All of these projects are available with the intention that other people will enjoy and learn from them. 
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6YGXL)
 
 # Letter Home / [Repo](https://github.com/erdavids/Oblong)
