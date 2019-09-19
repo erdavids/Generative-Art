@@ -50,11 +50,6 @@ All of these projects are available with the intention that other people will en
 
 <p align="center"><img src="https://github.com/erdavids/Generative-Pebbles/blob/master/Examples/Pebbles-50-60x30.png"></p>
 
-# Polaroids / [Repo](https://github.com/erdavids/Polaroids)
-
-<p align="center"><img src="https://github.com/erdavids/Polaroids/blob/master/Examples/interesting.png"></p>
-<p align="center"><img src="https://github.com/erdavids/Polaroids/blob/master/Examples/Pol.png"></p>
-
 # Elementary Automata / [Repo](https://github.com/erdavids/Elementary-Automata)
 
 <p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/automata/a-1.png"></p>
