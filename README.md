@@ -19,9 +19,9 @@ All of these projects are available with the intention that other people will en
 
 <p align="center"><img src="https://github.com/erdavids/Circle-Shadows/blob/master/Examples/redbias-6897.png"></p>
 
-# Cube Towers / [Repo](https://github.com/erdavids/Cube-Towers)
+# Cube Towers / [Repo](https://github.com/erdavids/Cube-Towers) / [Tutorial](https://www.youtube.com/watch?v=H7EwbkBWnmA)
 
-<p align="center"><img src="https://github.com/erdavids/Cube-Towers/blob/master/Examples/Favorites/git-display.png"></p>
+<p align="center"><img src="https://github.com/erdavids/Cube-Towers/blob/master/Examples/Favorites/1475.png"></p>
 
 # Simulated Code / [Repo](https://github.com/erdavids/Simulated-Code) / [Tutorial](https://www.youtube.com/watch?v=3_7rxEQKCIk)
 
