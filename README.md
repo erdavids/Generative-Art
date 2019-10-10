@@ -20,7 +20,7 @@ All of these projects are available with the intention that other people will en
 
 # Space Creator / [Repo](https://github.com/erdavids/Space-Creator)
 
-<p align="center"><img src="https://github.com/erdavids/Space-Creator/blob/master/Favorites/test.png"></p>
+<p align="center"><img src="https://github.com/erdavids/Space-Creator/blob/master/Examples/possiblereddit.png"></p>
 
 # Runes / [Repo](https://github.com/erdavids/Runes)
 
