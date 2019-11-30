@@ -22,6 +22,10 @@ All of these projects are available with the intention that other people will en
 
 <p align="center"><img src="https://github.com/erdavids/Space-Creator/blob/master/Examples/possiblereddit.png"></p>
 
+# Hex Map Generator / [Repo](https://github.com/erdavids/Hex-Map)
+
+<p align="center"><img src="https://github.com/erdavids/Hex-Map/blob/master/Examples/Random/2732.png"></p>
+
 # Runes / [Repo](https://github.com/erdavids/Runes)
 
 <p align="center"><img src="https://github.com/erdavids/Runes/blob/master/Examples/ThickerLines/6011.png"></p>
@@ -38,7 +42,6 @@ All of these projects are available with the intention that other people will en
 
 <p align="center"><img src="https://github.com/erdavids/Circle-Packing/blob/master/Examples/Gif/28.png"></p>
 
-
 # Watercolor Clouds / [Repo](https://github.com/erdavids/WatercolorClouds) / [Tutorial](https://www.youtube.com/watch?v=5bBkBVnrg2g)
 
 <p align="center"><img src="https://github.com/erdavids/WatercolorClouds/blob/master/watercolor.png"></p>
@@ -52,10 +55,6 @@ All of these projects are available with the intention that other people will en
 <p align="center"><img src="https://github.com/erdavids/Generative-Space-System/blob/master/Examples/Generative-Space-Texture-3000w-1002h.png"></p>
 
 <p align="center"><img src="https://github.com/erdavids/Generative-Space-System/blob/master/Examples/Generative-Space-Texture-3000w-2001h.png"></p>
-
-# Hex Map Generator / [Repo](https://github.com/erdavids/Hex-Map)
-
-<p align="center"><img src="https://github.com/erdavids/Hex-Map/blob/master/Examples/Random/2732.png"></p>
 
 # Pebbles / [Repo](https://github.com/erdavids/Generative-Pebbles)
 
