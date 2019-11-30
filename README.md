@@ -53,20 +53,24 @@ All of these projects are available with the intention that other people will en
 
 <p align="center"><img src="https://github.com/erdavids/Generative-Space-System/blob/master/Examples/Generative-Space-Texture-3000w-2001h.png"></p>
 
+# Hex Map Generator / [Repo](https://github.com/erdavids/Hex-Map)
+
+<p align="center"><img src="https://github.com/erdavids/Hex-Map/blob/master/Examples/Random/2732.png"></p>
+
 # Pebbles / [Repo](https://github.com/erdavids/Generative-Pebbles)
 
 <p align="center"><img src="https://github.com/erdavids/Generative-Pebbles/blob/master/Examples/Pebbles-50-60x30.png"></p>
 
 # Elementary Automata / [Repo](https://github.com/erdavids/Elementary-Automata)
 
-<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/automata/a-1.png"></p>
+<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Archive/Images/automata/a-1.png"></p>
 
 # Space Invaders / [Repo](https://github.com/erdavids/Space-Invaders) / [TwitterBot](https://twitter.com/generatorsprite)
 
-<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/SpaceInvader/Invader-1.jpg"></p>
-<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/Example-43x43-6-1900.jpg"></p>
+<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Archive/Images/SpaceInvader/Invader-1.jpg"></p>
+<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Archive/Images/Example-43x43-6-1900.jpg"></p>
 
-# Island Generator / [Repo](https://github.com/erdavids/Island-Generator)
+# Basic Island Generator / [Repo](https://github.com/erdavids/Island-Generator)
 
 <p align="center"><img src="https://github.com/erdavids/Island-Generator/blob/master/Examples/Planet-11223-w-1500-h-1500.png"></p>
 
@@ -80,9 +84,9 @@ All of these projects are available with the intention that other people will en
 
 # Cubo / [Repo](https://github.com/erdavids/Cubo)
 
-<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/Cubo/Cubo-80-40-868.png"></p>
-<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/Cubo/Cubo-8-8-348.png"></p>
+<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Archive/Images/Cubo/Cubo-80-40-868.png"></p>
+<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Archive/Images/Cubo/Cubo-8-8-348.png"></p>
 
 # Transit Sketches / [Repo](https://github.com/erdavids/Transit-Sketches)
 
-<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Images/Transit-Sketches/422.png"></p>
+<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Archive/Images/Transit-Sketches/422.png"></p>
