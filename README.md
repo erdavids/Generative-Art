@@ -26,6 +26,9 @@ All of these projects are available with the intention that other people will en
 
 <p align="center"><img src="https://github.com/erdavids/Hex-Map/blob/master/Examples/Random/2732.png"></p>
 
+# Recursive Tree / [Repo](https://github.com/erdavids/Recursive-Tree) / [Tutorial](https://www.youtube.com/watch?v=S-c0gknmnWM)
+<p align="center"><img src="https://github.com/erdavids/Recursive-Tree/blob/master/Examples/Favorites/light-blue.jpg"></p>
+
 # Runes / [Repo](https://github.com/erdavids/Runes)
 
 <p align="center"><img src="https://github.com/erdavids/Runes/blob/master/Examples/ThickerLines/6011.png"></p>
