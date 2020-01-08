@@ -26,6 +26,10 @@ All of these projects are available with the intention that other people will en
 
 <p align="center"><img src="https://github.com/erdavids/Hex-Map/blob/master/Examples/Random/2732.png"></p>
 
+# Sorting Visualizations / [Repo](https://github.com/erdavids/Sorting-Visualizations)
+
+<p align="center"><img src="https://github.com/erdavids/Sorting-Visualizations/blob/master/Examples/Bubble/Favorites/6781.png"></p>
+
 # Recursive Tree / [Repo](https://github.com/erdavids/Recursive-Tree) / [Tutorial](https://www.youtube.com/watch?v=S-c0gknmnWM)
 <p align="center"><img src="https://github.com/erdavids/Recursive-Tree/blob/master/Examples/Favorites/light-blue.jpg"></p>
 
