@@ -28,7 +28,7 @@ All of these projects are available with the intention that other people will en
 
 # Sorting Visualizations / [Repo](https://github.com/erdavids/Sorting-Visualizations)
 
-<p align="center"><img src="https://github.com/erdavids/Sorting-Visualizations/blob/master/Examples/Bubble/Favorites/6781.png"></p>
+<p align="center"><img src="https://github.com/erdavids/Sorting-Visualizations/blob/master/Examples/Favorites/bubble.png"></p>
 
 # Recursive Tree / [Repo](https://github.com/erdavids/Recursive-Tree) / [Tutorial](https://www.youtube.com/watch?v=S-c0gknmnWM)
 <p align="center"><img src="https://github.com/erdavids/Recursive-Tree/blob/master/Examples/Favorites/light-blue.jpg"></p>
