@@ -30,6 +30,9 @@ All of these projects are available with the intention that other people will en
 
 <p align="center"><img src="https://github.com/erdavids/Sorting-Visualizations/blob/master/Examples/Favorites/bubble.png"></p>
 
+# Birds of a Feather / [Repo](https://github.com/erdavids/Birds-of-a-Feather)
+<p align="center"><img src="https://github.com/erdavids/Birds-of-a-Feather/blob/master/Favorites/9x9.png"></p>
+
 # Recursive Tree / [Repo](https://github.com/erdavids/Recursive-Tree) / [Tutorial](https://www.youtube.com/watch?v=S-c0gknmnWM)
 <p align="center"><img src="https://github.com/erdavids/Recursive-Tree/blob/master/Examples/Favorites/light-blue.jpg"></p>
 
