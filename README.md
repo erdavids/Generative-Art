@@ -32,8 +32,8 @@ All of these projects are available with the intention that other people will en
 # Birds of a Feather / [Repo](https://github.com/erdavids/Birds-of-a-Feather)
 <p align="center"><img src="https://github.com/erdavids/Birds-of-a-Feather/blob/master/Favorites/9x9.png"></p>
 
-# Recursive Tree / [Repo](https://github.com/erdavids/Recursive-Tree) / [Tutorial](https://www.youtube.com/watch?v=S-c0gknmnWM)
-<p align="center"><img src="https://github.com/erdavids/Recursive-Tree/blob/master/Examples/Favorites/light-blue.jpg"></p>
+# Webbing / [Repo](https://github.com/erdavids/Webbing)
+<p align="center"><img src="https://github.com/erdavids/Webbing/blob/master/Favorites/git.png"></p>
 
 # Runes / [Repo](https://github.com/erdavids/Runes)
 
@@ -46,6 +46,13 @@ All of these projects are available with the intention that other people will en
 # Simulated Code / [Repo](https://github.com/erdavids/Simulated-Code) / [Tutorial](https://www.youtube.com/watch?v=3_7rxEQKCIk)
 
 <p align="center"><img src="https://github.com/erdavids/Simulated-Code/blob/master/Favorites/Reddit.png"></p>
+
+# Cubo / [Repo](https://github.com/erdavids/Cubo)
+
+<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Archive/Images/Cubo/Cubo-80-40-868.png"></p>
+
+# Recursive Tree / [Repo](https://github.com/erdavids/Recursive-Tree) / [Tutorial](https://www.youtube.com/watch?v=S-c0gknmnWM)
+<p align="center"><img src="https://github.com/erdavids/Recursive-Tree/blob/master/Examples/Favorites/light-blue.jpg"></p>
 
 # Circle Packing / [Repo](https://github.com/erdavids/Circle-Packing) / [Tutorial](https://www.youtube.com/watch?v=QkJHDIwPQ9E)
 
@@ -89,11 +96,6 @@ All of these projects are available with the intention that other people will en
 # Color Cuber / [Repo](https://github.com/erdavids/Color-Cuber)
 
 <p align="center"><img src="https://github.com/erdavids/Color-Cuber/blob/master/mod/eiffel.png"></p>
-
-# Cubo / [Repo](https://github.com/erdavids/Cubo)
-
-<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Archive/Images/Cubo/Cubo-80-40-868.png"></p>
-<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Archive/Images/Cubo/Cubo-8-8-348.png"></p>
 
 # Transit Sketches / [Repo](https://github.com/erdavids/Transit-Sketches)
 
