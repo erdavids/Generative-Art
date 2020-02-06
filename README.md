@@ -1,5 +1,6 @@
 # Generative Art
-Hopefully you find these projects interesting and helpful when making your own!
+
+Art created by code written with a combination of structure and randomness. Hopefully you enjoy these!
 
 Each of the projects should link to their own repos where you can find the code and more examples. If you want to run them yourself, make sure to download [Processing](https://www.processing.org) for the .pyde files and [Python](https://www.python.org/) for the .py ones. Feel free to reach out to thebuffed@gmail.com if you have any questions.
 
@@ -7,8 +8,6 @@ Other links:
 - [YouTube Channel](https://www.youtube.com/channel/UCUrmX3SvpPerq-KAfGBrgGQ)
 
 All of these projects are available with the intention that other people will enjoy and learn from them. 
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6YGXL)
 
 # Letter Home / [Repo](https://github.com/erdavids/Oblong)
 
