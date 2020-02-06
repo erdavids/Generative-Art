@@ -15,7 +15,7 @@ All of these projects are available with the intention that other people will en
 
 # Cube Towers / [Repo](https://github.com/erdavids/Cube-Towers) / [Tutorial](https://www.youtube.com/watch?v=H7EwbkBWnmA)
 
-<p align="center"><img src="https://github.com/erdavids/Cube-Towers/blob/master/Examples/Vapor/8805.png"></p>
+<p align="center"><img src="https://github.com/erdavids/Cube-Towers/blob/master/Examples/Vapor/8085.png"></p>
 
 # Space Creator / [Repo](https://github.com/erdavids/Space-Creator)
 
