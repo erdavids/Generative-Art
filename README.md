@@ -13,6 +13,9 @@ All of these projects are available with the intention that other people will en
 
 <p align="center"><img src="https://github.com/erdavids/Oblong/blob/master/Examples/Oblong-25-520.png"></p>
 
+# Birds of a Feather / [Repo](https://github.com/erdavids/Birds-of-a-Feather)
+<p align="center"><img src="https://github.com/erdavids/Birds-of-a-Feather/blob/master/Favorites/9x9.png"></p>
+
 # Cube Towers / [Repo](https://github.com/erdavids/Cube-Towers) / [Tutorial](https://www.youtube.com/watch?v=H7EwbkBWnmA)
 
 <p align="center"><img src="https://github.com/erdavids/Cube-Towers/blob/master/Examples/Vapor/8085.png"></p>
@@ -29,8 +32,6 @@ All of these projects are available with the intention that other people will en
 
 <p align="center"><img src="https://github.com/erdavids/Sorting-Visualizations/blob/master/Examples/Favorites/bubble.png"></p>
 
-# Birds of a Feather / [Repo](https://github.com/erdavids/Birds-of-a-Feather)
-<p align="center"><img src="https://github.com/erdavids/Birds-of-a-Feather/blob/master/Favorites/9x9.png"></p>
 
 # Webbing / [Repo](https://github.com/erdavids/Webbing)
 <p align="center"><img src="https://github.com/erdavids/Webbing/blob/master/Favorites/git.png"></p>
