@@ -49,7 +49,7 @@ All of these projects are available with the intention that other people will en
 
 # Cubo / [Repo](https://github.com/erdavids/Cubo)
 
-<p align="center"><img src="https://github.com/erdavids/PersonalWebsite/blob/master/Archive/Images/Cubo/Cubo-80-40-868.png"></p>
+<p align="center"><img src="https://github.com/erdavids/Cubo/blob/master/Examples/Cubo-80-40-1442.png"></p>
 
 # Recursive Tree / [Repo](https://github.com/erdavids/Recursive-Tree) / [Tutorial](https://www.youtube.com/watch?v=S-c0gknmnWM)
 <p align="center"><img src="https://github.com/erdavids/Recursive-Tree/blob/master/Examples/Favorites/light-blue.jpg"></p>
