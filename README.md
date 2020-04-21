@@ -24,6 +24,10 @@ All of these projects are available with the intention that other people will en
 
 <p align="center"><img src="https://github.com/erdavids/Space-Creator/blob/master/Examples/possiblereddit.png"></p>
 
+# Offset Quads / [Repo](https://github.com/erdavids/Offset-Quads/tree/master)
+
+<p align="center"><img src="https://github.com/erdavids/Offset-Quads/blob/master/Examples/6-3-30.png"></p>
+
 # Hex Map Generator / [Repo](https://github.com/erdavids/Hex-Map)
 
 <p align="center"><img src="https://github.com/erdavids/Hex-Map/blob/master/Examples/Random/2732.png"></p>
