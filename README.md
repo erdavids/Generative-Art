@@ -9,9 +9,10 @@ Other links:
 
 All of these projects are available with the intention that other people will enjoy and learn from them. 
 
-# Letter Home / [Repo](https://github.com/erdavids/Oblong)
 
-<p align="center"><img src="https://github.com/erdavids/Oblong/blob/master/Examples/Oblong-25-520.png"></p>
+# Offset Quads / [Repo](https://github.com/erdavids/Offset-Quads/tree/master)
+
+<p align="center"><img src="https://github.com/erdavids/Offset-Quads/blob/master/Examples/6-3-30.png"></p>
 
 # Birds of a Feather / [Repo](https://github.com/erdavids/Birds-of-a-Feather)
 <p align="center"><img src="https://github.com/erdavids/Birds-of-a-Feather/blob/master/Favorites/9x9.png"></p>
@@ -27,9 +28,9 @@ All of these projects are available with the intention that other people will en
 
 <p align="center"><img src="https://github.com/erdavids/Space-Creator/blob/master/Examples/possiblereddit.png"></p>
 
-# Offset Quads / [Repo](https://github.com/erdavids/Offset-Quads/tree/master)
+# Letter Home / [Repo](https://github.com/erdavids/Oblong)
 
-<p align="center"><img src="https://github.com/erdavids/Offset-Quads/blob/master/Examples/6-3-30.png"></p>
+<p align="center"><img src="https://github.com/erdavids/Oblong/blob/master/Examples/Oblong-25-520.png"></p>
 
 # Hex Map Generator / [Repo](https://github.com/erdavids/Hex-Map)
 
