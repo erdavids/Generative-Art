@@ -6,6 +6,7 @@ Each of the projects should link to their own repos where you can find the code 
 
 Other links:
 - [YouTube Channel](https://www.youtube.com/channel/UCUrmX3SvpPerq-KAfGBrgGQ)
+- [Patreon](https://www.patreon.com/thebuffed)
 
 All of these projects are available with the intention that other people will enjoy and learn from them. 
 
