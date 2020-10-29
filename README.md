@@ -27,6 +27,9 @@ All of these projects are available with the intention that other people will en
 # Mondrian Tiles / [Repo](https://github.com/erdavids/Mondrian-Tiles) / [Tutorial](https://www.youtube.com/watch?v=LWeLQdtT35Y)
 <p align="center"><img src="https://github.com/erdavids/Mondrian-Tiles/blob/master/Examples/Tiles/4826.png"></p>
 
+# Shrinking Lines / [Repo](https://github.com/erdavids/Shrinking-Lines)
+<p align="center"><img src="https://github.com/erdavids/Shrinking-Lines/blob/master/Examples/1623.png"></p>
+
 # Generative Orbit / [Tool](https://www.erdavids.com/generative-orbit/) / [Tutorial](https://www.youtube.com/watch?v=jeocE6bLczE) / [Repo](https://github.com/erdavids/Portfolio/tree/master/generative-orbit)
 
 <p align="center"><img src="https://github.com/erdavids/Portfolio/blob/master/generative-orbit/images/git-2.png"></p>
