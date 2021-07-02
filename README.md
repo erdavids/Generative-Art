@@ -30,6 +30,9 @@ All of these projects are available with the intention that other people will en
 # Mondrian Tiles / [Repo](https://github.com/erdavids/Mondrian-Tiles) / [Tutorial](https://www.youtube.com/watch?v=LWeLQdtT35Y)
 <p align="center"><img src="https://github.com/erdavids/Mondrian-Tiles/blob/master/Examples/Tiles/4826.png"></p>
 
+# Paths / [Repo](https://github.com/erdavids/Generative-Art/tree/master/Projects/Grid_of_Paths)
+<p align="center"><img src="https://github.com/erdavids/Generative-Art/blob/master/Projects/Grid_of_Paths/Examples/3069.png"></p>
+
 # Brush Strokes / [Repo](https://github.com/erdavids/Generative-Art/tree/master/Projects/Brush_Strokes)
 <p align="center"><img src="https://github.com/erdavids/Generative-Art/blob/master/Projects/Brush_Strokes/Examples/NotBad/311.png"></p>
 
