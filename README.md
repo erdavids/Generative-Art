@@ -24,11 +24,17 @@ All of these projects are available with the intention that other people will en
 # City Against a Waterfall / [Repo](https://github.com/erdavids/City-Waterfall)
 <p align="center"><img src="https://github.com/erdavids/City-Waterfall/blob/master/Examples/City/54643.png"></p>
 
-# Generative Plants / [Tool](https://www.erdavids.com/generative-plants/) / [Repo](https://github.com/erdavids/Portfolio/tree/master/generative-plants) / [Demo](https://www.youtube.com/watch?v=1eNHrRe4Sqk)
-<p align="center"><img src="https://github.com/erdavids/Portfolio/blob/master/generative-plants/images/git.png"></p>
+# Flowfields Again / [Repo](https://github.com/erdavids/Flowfields_Again)
+<p align="center"><img src="https://github.com/erdavids/Flowfields_Again/blob/master/Examples/6081.png"></p>
+
+<!-- # Generative Plants / [Tool](https://www.erdavids.com/generative-plants/) / [Repo](https://github.com/erdavids/Portfolio/tree/master/generative-plants) / [Demo](https://www.youtube.com/watch?v=1eNHrRe4Sqk)
+<p align="center"><img src="https://github.com/erdavids/Portfolio/blob/master/generative-plants/images/git.png"></p> -->
 
 # Mondrian Tiles / [Repo](https://github.com/erdavids/Mondrian-Tiles) / [Tutorial](https://www.youtube.com/watch?v=LWeLQdtT35Y)
 <p align="center"><img src="https://github.com/erdavids/Mondrian-Tiles/blob/master/Examples/Tiles/4826.png"></p>
+
+# Paths / [Repo](https://github.com/erdavids/Generative-Art/tree/master/Projects/Grid_of_Paths)
+<p align="center"><img src="https://github.com/erdavids/Generative-Art/blob/master/Projects/Grid_of_Paths/Examples/3069.png"></p>
 
 # Brush Strokes / [Repo](https://github.com/erdavids/Generative-Art/tree/master/Projects/Brush_Strokes)
 <p align="center"><img src="https://github.com/erdavids/Generative-Art/blob/master/Projects/Brush_Strokes/Examples/NotBad/311.png"></p>
