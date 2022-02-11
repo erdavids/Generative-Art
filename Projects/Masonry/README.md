@@ -15,5 +15,6 @@ All of these projects are available with the intention that other people will en
 I've included some examples from the actual code here, but there is a folder with P5.js examples as well.
 
 <p align="center"><img src="https://github.com/erdavids/Generative-Art/blob/master/Projects/Masonry/Examples/Great/3615.png"></p>
-<p align="center"><img src="https://github.com/erdavids/Generative-Art/blob/master/Projects/Masonry/Examples/Great/370.png"></p>
 <p align="center"><img src="https://github.com/erdavids/Generative-Art/blob/master/Projects/Masonry/Examples/Great/2068.png"></p>
+<p align="center"><img src="https://github.com/erdavids/Generative-Art/blob/master/Projects/Masonry/Examples/Great/370.png"></p>
+
