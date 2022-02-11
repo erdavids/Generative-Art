@@ -5,6 +5,7 @@ Art created by code written with a combination of structure and randomness. Hope
 Each of the projects should link to their own repos where you can find the code and more examples. If you want to run them yourself, make sure to download [Processing](https://www.processing.org) for the .pyde files and [Python](https://www.python.org/) for the .py ones. Feel free to reach out to thebuffed@gmail.com if you have any questions.
 
 Other links:
+- [Twitter](https://twitter.com/TheBuffED)
 - [YouTube Channel](https://www.youtube.com/channel/UCUrmX3SvpPerq-KAfGBrgGQ)
 
 All of these projects are available with the intention that other people will enjoy and learn from them. 
