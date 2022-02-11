@@ -11,6 +11,11 @@ Other links:
 All of these projects are available with the intention that other people will enjoy and learn from them. 
 
 
+
+# Masonry / [ArtBlocks](https://www.artblocks.io/project/259) / [Repo](https://github.com/erdavids/Generative-Art/tree/master/Projects/Masonry)
+
+<p align="center"><img src="https://github.com/erdavids/Generative-Art/blob/master/Projects/Masonry/Examples/P5-Examples/171.png"></p>
+
 # Offset Quads / [Repo](https://github.com/erdavids/Offset-Quads/tree/master)
 
 <p align="center"><img src="https://github.com/erdavids/Offset-Quads/blob/master/Examples/6-3-30.png"></p>
